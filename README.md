@@ -2,7 +2,7 @@
 
 ## Initial Setup Requirements
 The contents of this project's file use Visual Studio 2022 in order to run.
-The zip file named `ConversionFormsProgram.zip` must be extracted into a workspace of your Visual Studio 2022 application.
+The zip file named `ConversionFormProgram.zip` must be extracted into a workspace of your Visual Studio 2022 application.
 
 ## Files and Folders
 
