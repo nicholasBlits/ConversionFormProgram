@@ -1,0 +1,14 @@
+E:\Projects\CSharp\ConversionProgram\bin\Debug\ConversionProgram.exe.config
+E:\Projects\CSharp\ConversionProgram\bin\Debug\ConversionProgram.exe
+E:\Projects\CSharp\ConversionProgram\bin\Debug\ConversionProgram.pdb
+E:\Projects\CSharp\ConversionProgram\obj\Debug\ConversionProgram.csproj.AssemblyReference.cache
+E:\Projects\CSharp\ConversionProgram\obj\Debug\ConversionProgram.Form1.resources
+E:\Projects\CSharp\ConversionProgram\obj\Debug\ConversionProgram.Forms.TemperatureForm.resources
+E:\Projects\CSharp\ConversionProgram\obj\Debug\ConversionProgram.Properties.Resources.resources
+E:\Projects\CSharp\ConversionProgram\obj\Debug\ConversionProgram.csproj.GenerateResource.cache
+E:\Projects\CSharp\ConversionProgram\obj\Debug\ConversionProgram.csproj.CoreCompileInputs.cache
+E:\Projects\CSharp\ConversionProgram\obj\Debug\ConversionProgram.exe
+E:\Projects\CSharp\ConversionProgram\obj\Debug\ConversionProgram.pdb
+E:\Projects\CSharp\ConversionProgram\obj\Debug\ConversionProgram.Forms.GradeConversionForm.resources
+E:\Projects\CSharp\ConversionProgram\obj\Debug\ConversionProgram.Forms.AngleForm.resources
+E:\Projects\CSharp\ConversionProgram\obj\Debug\ConversionProgram.Forms.TimeConversionForm.resources
