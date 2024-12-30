@@ -1,6 +1,6 @@
 ﻿/*
  *  Program Author: Nicholas S. Blits
- *  Program Version: 1.0.0
+ *  Program Version: 1.1.3
  *  Current File: GradeConversionForm.cs
  *  
  * Copyright Notice: All code that is not automatically created by an IDE (such as Visual Studio 2022) has been created by Nicholas S. Blits as of this version. Any unwarranted plaigiarism of this code (the code that has been manually created) is strictly prohibited. Legal action may be taken as appropriate.
