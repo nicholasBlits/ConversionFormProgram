@@ -1,6 +1,6 @@
 ﻿/*
  *  Program Author: Nicholas S. Blits
- *  Program Version: 1.0.0
+ *  Program Version: 1.1.3
  *  Current File: AngleForm.cs
  *  
  *  Copyright Notice: All code that is not automatically created by an IDE (such as Visual Studio 2022) has been created by Nicholas S. Blits as of this version. Any unwarranted plaigiarism of this code (the code that has been manually created) is strictly prohibited. Legal action may be taken as appropriate.
@@ -58,7 +58,7 @@ namespace ConversionProgram.Forms // The path that this file operates out of
             if (cbMeasurements.SelectedIndex == 0) // Checking if the user entered the angle in Radians or Degrees (if the index is 0, the user chose Radians)
             {
                 // Make a variable that contains the result of the math required to turn radians into degrees (which is the angle in radians multipiled by 180 divided by pi.)
-                double angleInDegrees = angle * (180 / Math.PI); // Math.PI is an exisiting object that is used to represent the mathematical constant pi.
+                double angleInDegrees = angle * (180 / Math.PI); // Math.PI is an existing object that is used to represent the mathematical constant pi.
 
                 // Setting the Text of the label for the converted angle's measurement to the converted angle as calculated above
                 // The element, which is currently saved as a double, must be converted to a String to become the Text of the converted angle's label
