@@ -25,6 +25,6 @@ This project, and all attached files may be edited in the future by other develo
 As of 12/26/2024, however, I, Nicholas S. Blits, am the only developer responsible for the creation of this program.
 Any unwarranted plagiarism of the content of this program that is NOT automatically created by an IDE will result in legal action as is appropriate. 
 
-Visual Studio 2022 by Micorosft Corporation is an example of an IDE as referenced above. 
+Visual Studio 2022 by Microsoft Corporation is an example of an IDE as referenced above. 
 
 Please direct any questions either to my email, which is nicholasblits05@yahoo.com , or through messages on my LinkedIn, which can be found at the folllowing link: https://bit.ly/NBlitsLinkedIn 
